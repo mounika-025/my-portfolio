@@ -11,7 +11,7 @@ const Navbar = () => {
     { id: 5, link: "Contact" },
   ];
   return (
-    <div className="flex justify-between w-full h-20 px-4 text-gray-300  bg-black fixed items-center">
+    <div className="flex justify-between w-full h-20 px-4 text-gray-300 bg-black fixed items-center">
       <div>
         <h1 className="font-bold ml-2">MOUNIKA</h1>
       </div>
