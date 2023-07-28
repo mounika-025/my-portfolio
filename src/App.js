@@ -2,6 +2,7 @@ import About from "./Components/About";
 import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
 import SocialLinks from "./Components/SocialLinks";
+import ContactMe from "./Components/ContactMe";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Home />
       <SocialLinks />
       <About />
+      <ContactMe />
     </div>
   );
 }
