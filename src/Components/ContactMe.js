@@ -8,7 +8,7 @@ const Contact = () => {
     >
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-4xl font-bold inline dark:text-[#224cff]  border-b-4 border-gray-500">
             Contact
           </p>
           <p className="py-6">Submit the form below to get in touch with me</p>
@@ -24,22 +24,22 @@ const Contact = () => {
               type="text"
               name="name"
               placeholder="Enter your name"
-              className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+              className="bg-transparent rounded-md text-white focus:outline-none border-2 border-gray-600 hover:border-blue-400 hover:transition border transition-all duration-300 p-2"
             />
             <input
               type="text"
               name="email"
               placeholder="Enter your email"
-              className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+              className="my-4  bg-transparent  rounded-md text-white focus:outline-none border-2 border-gray-600 hover:border-blue-400 hover:transition border transition-all duration-300 p-2"
             />
             <textarea
               name="message"
               placeholder="Enter your message"
               rows="10"
-              className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+              className=" bg-transparent rounded-md text-white focus:outline-none border-2 border-gray-600 hover:border-blue-400 hover:transition border transition-all duration-300 p-2"
             ></textarea>
 
-            <button className="text-white bg-gradient-to-r from-blue-600 to-blue-800 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
+            <button className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
               Let's talk
             </button>
           </form>
