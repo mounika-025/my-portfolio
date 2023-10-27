@@ -12,7 +12,7 @@ export const experienceData = [
     companyLogo: sustine,
     jobTitle: "Software Developer",
     skills:
-      "Significantly boosted application performance via expert codebase refactoring, optimizing overall efficiency. ",
+      "Technology Used:  HTML5, User Experience (UX), User Interface Design, E-Commerce, Cascading Style Sheets (CSS), JavaScript, React.js, Python ",
     date: "Aug-2022 - Present",
   },
   {
