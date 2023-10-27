@@ -1,0 +1,72 @@
+.intro {
+  width: 100vw;
+  max-width: 80rem;
+  margin: 0rem auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.bgImg {
+  position: absolute;
+  z-index: -1;
+  top: 7rem;
+  right: 0;
+  object-fit: cover;
+  height: 60vh;
+}
+
+.introContent {
+  height: 100vh;
+  width: 100vw;
+  padding: 2rem;
+  font-size: 3rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.hello {
+  font-size: 1.75rem;
+  font-weight: 100;
+}
+
+.introName {
+  color: rgb(97, 97, 224);
+  font-weight: bold;
+}
+
+.introPara {
+  font-size: medium;
+  font-weight: 200;
+  letter-spacing: normal;
+  padding-top: 10px;
+}
+
+.btn {
+  background: white;
+  margin: 2rem 0.75rem;
+  padding: 0.75rem 2rem 0.75rem;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(97, 97, 224);
+  transition: 1s;
+}
+
+@media screen and (max-width: 840px) {
+  .introContent {
+    font-size: 4vh;
+    height: 50vh;
+  }
+  .hello {
+    font-size: 4.5vw;
+  }
+  .bgImg {
+    display: none;
+  }
+}

@@ -1,0 +1,45 @@
+#experience {
+  min-height: calc(100vh - 4rem);
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+}
+
+.experience-container {
+  padding: 20px 50px 40px 50px;
+}
+
+.worksTitle {
+  text-align: center;
+  margin: 1rem 0;
+  font-size: 3rem;
+}
+
+.vertical-timeline-element-work {
+  border-radius: 16px;
+}
+
+.vertical-timeline-element-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgb(97, 97, 224);
+}
+
+.vertical-timeline-element-subtitle {
+  font-size: 1rem;
+}
+
+.vertical-timeline-element-tech {
+  font-size: 100rem;
+}
+
+.timeline-logo {
+  width: 55px;
+  height: 45px;
+  object-fit: contain;
+}
+@media screen and (max-width: 840px) {
+  .worksTitle {
+    font-size: 2rem;
+  }
+}
