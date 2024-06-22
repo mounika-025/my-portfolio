@@ -101,7 +101,7 @@
 }
 
 .contact-me h4 {
-  color: rgb(97, 97, 224);
+  color: #0176c3;
   margin-bottom: 0;
   padding-bottom: 0;
   font-size: 1.3rem;
@@ -112,7 +112,7 @@
   font-size: 27px;
   border-radius: 50%;
   display: flex;
-  color: rgb(97, 97, 224);
+  color: #0176c3;
   background: #eeebeb;
   justify-content: center;
   align-items: center;

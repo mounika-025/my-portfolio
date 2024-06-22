@@ -15,8 +15,8 @@ const About = () => {
         </span>
         <p className="introPara">
           Having in-depth knowledge of{" "}
-          <span className="introName">Frontend</span> Technology <br /> and
-          total experience of <span className="introName">1.6 Years</span> in
+          <span className="introName">Full Stack</span> development <br /> and
+          total experience of <span className="introName">2.5 Years</span> in
           the software industry.
         </p>
         <div>
@@ -24,9 +24,7 @@ const About = () => {
             <button className="btn">Hire Me</button>
           </a>
           <a
-            href={
-              "https://drive.google.com/file/d/1s_MnZXIn1ShDEurlqN1aEAwsD0gkwayw/view?usp=drivesdk"
-            }
+            href={"https://mounikaa-resume.tiiny.site"}
             target="_blank"
             rel="noopener noreferrer"
           >

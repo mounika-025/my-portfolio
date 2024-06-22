@@ -33,7 +33,7 @@
 }
 
 .introName {
-  color: rgb(97, 97, 224);
+  color: #0176c3;
   font-weight: bold;
 }
 
@@ -54,7 +54,7 @@
 }
 
 .btn:hover {
-  background-color: rgb(97, 97, 224);
+  background-color: #c7eeff;
   transition: 1s;
 }
 

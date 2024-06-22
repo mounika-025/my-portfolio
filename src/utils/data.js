@@ -3,13 +3,13 @@ import stackoverflow from "../assets/StackoverFlow.png";
 import youtube from "../assets/youtube.png";
 
 import nxtwave from "../assets/nxtwavelogo.jpg";
-import sustine from "../assets/sustineLogo.png";
+import valsyne from "../assets/valsyne.png";
 
 export const experienceData = [
   {
     id: 1,
-    company: "Sustine",
-    companyLogo: sustine,
+    company: "Valsyne",
+    companyLogo: valsyne,
     jobTitle: "Software Developer",
     skills:
       "Technology Used:  HTML5, User Experience (UX), User Interface Design, E-Commerce, Cascading Style Sheets (CSS), JavaScript, React.js, Python ",
@@ -17,8 +17,8 @@ export const experienceData = [
   },
   {
     id: 2,
-    company: "Sustine",
-    companyLogo: sustine,
+    company: "Valsyne",
+    companyLogo: valsyne,
     jobTitle: "Developer Intern",
     skills:
       "Technology Used:  HTML5, User Experience (UX), User Interface Design, E-Commerce, Cascading Style Sheets (CSS), JavaScript, React.js, Python ",
@@ -77,88 +77,95 @@ export const projectDetails = [
 export const skills = [
   {
     id: 1,
-
-    title: "HTML",
-  },
-  {
-    id: 2,
-
-    title: "CSS",
-  },
-  {
-    id: 3,
-
-    title: "JavaScript",
-  },
-  {
-    id: 4,
-
-    title: "React JS",
-  },
-  {
-    id: 5,
-
     title: "UI/UX",
   },
   {
+    id: 2,
+    title: "JavaScript",
+  },
+  {
+    id: 3,
+    title: "React JS",
+  },
+  {
+    id: 4,
+    title: "Next JS",
+  },
+  {
+    id: 5,
+    title: "Flutter Flow",
+  },
+  {
     id: 6,
-
-    title: " Express JS",
+    title: "AWS",
   },
   {
     id: 7,
-
     title: "Node JS",
   },
   {
     id: 8,
-
-    title: "MongoDB",
+    title: "Express JS",
   },
   {
     id: 9,
-
-    title: "Python",
+    title: "TypeScript",
   },
   {
     id: 10,
-
-    title: "Tailwind",
+    title: "Python",
   },
   {
     id: 11,
-
+    title: "HTML5",
+  },
+  {
+    id: 12,
+    title: "Material UI",
+  },
+  {
+    id: 13,
+    title: "CSS3",
+  },
+  {
+    id: 14,
+    title: "Tailwind CSS",
+  },
+  {
+    id: 15,
+    title: "Redux",
+  },
+  {
+    id: 16,
+    title: "MongoDB",
+  },
+  {
+    id: 17,
+    title: "DynamoDB",
+  },
+  {
+    id: 18,
+    title: "Firebase",
+  },
+  {
+    id: 19,
+    title: "JWT",
+  },
+  {
+    id: 20,
     title: "Bootstrap",
   },
   {
-    id: 12,
-
-    title: "Material Ui",
+    id: 21,
+    title: "OpenAI",
   },
   {
-    id: 11,
-
-    title: "SQL",
-  },
-  {
-    id: 12,
-
-    title: "Docker",
-  },
-  {
-    id: 13,
-
+    id: 22,
     title: "Git",
   },
   {
-    id: 12,
-
-    title: "Github",
-  },
-  {
-    id: 13,
-
-    title: "Postman",
+    id: 23,
+    title: "GitHub",
   },
 ];
 
