@@ -12,8 +12,8 @@ export const experienceData = [
     companyLogo: valsyne,
     jobTitle: "Software Developer",
     skills:
-      "Technology Used:  HTML5, User Experience (UX), User Interface Design, E-Commerce, Cascading Style Sheets (CSS), JavaScript, React.js, Python ",
-    date: "Aug-2022 - Present",
+      "Technology Used:  HTML5, User Experience (UX), User Interface Design, E-Commerce, Cascading Style Sheets (CSS), JavaScript, React.js, AWS, Flutter Flow,Python ",
+    date: "Jan-2023 - Present",
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ export const experienceData = [
     jobTitle: "Developer Intern",
     skills:
       "Technology Used:  HTML5, User Experience (UX), User Interface Design, E-Commerce, Cascading Style Sheets (CSS), JavaScript, React.js, Python ",
-    date: "Dec 2021 - Jul 2022",
+    date: "Aug 2022 - Dec 2022",
     icon: "https://img.icons8.com/?size=512&id=kOPTH4LnJoIU&format=png",
   },
   {
